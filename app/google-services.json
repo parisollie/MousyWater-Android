@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550168043079",
+    "project_id": "mousywater",
+    "storage_bucket": "mousywater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550168043079:android:217274487048726fd0db62",
+        "android_client_info": {
+          "package_name": "com.pjff.mousywater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2w5q7KUxBdcyqguSovlSOm1_7UgtXABo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
