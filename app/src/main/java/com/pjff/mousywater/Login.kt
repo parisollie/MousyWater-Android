@@ -14,6 +14,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseAuthException
 import com.pjff.mousywater.databinding.ActivityLoginBinding
 
+// para acceder es asi : pjff18@gmail.com, 123456
 
 
 class Login : AppCompatActivity() {
